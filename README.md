@@ -22,4 +22,4 @@ Note App using HTML, CSS and JavaScript.
   
   ![TextAnimation](https://user-images.githubusercontent.com/65191024/187098588-97facabe-2fa4-449a-a2ed-5daf1c597832.gif)
 
-## <a href="https://github.com/Thiagocod/NotesApp/">Click here for demo<a>
+## <a href="https://thiagocod.github.io/NotesApp/">Click here for demo<a>
