@@ -3,8 +3,13 @@
     box-sizing: border-box;
 }
 
+:root{
+    --bg-color: #47d86b;
+    --note-color: #bd4f61;
+}
+
 body{
-    background-color: #7bdaf3;
+    background-color: var(--bg-color);
     font-family: "Poppins", sans-serif;
     display: flex;
     flex-wrap: wrap;
@@ -15,7 +20,7 @@ body{
     position: fixed;
     top: 1rem;
     right: 1rem;
-    background-color: #9ec862;
+    background-color: var(--note-color);
     color: #fff;
     border: none;
     border-radius: 3px;
@@ -31,7 +36,7 @@ body{
     width: 400px;
 }
 .note .tools{
-    background-color: #9ec862;
+    background-color: var(--note-color);
     display: flex;
     justify-content: flex-end;
     padding: 0.5rem;
